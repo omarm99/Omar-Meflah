@@ -1,5 +1,5 @@
 
-👋 Hi there! I'm Omar, a tech enthusiast and newly AWS-certified professional with a cool background that seamlessly left the SAAS Sales and Consultancy world to the dynamic realm of cloud technology and infrastructure space.
+👋 Hi there! I'm Omar, a tech enthusiast and newly AWS-certified professional with a cool background that seamlessly left the SAAS Sales and Consultancy world for the dynamic realm of cloud technology and infrastructure space.
 
 **🚀 About Me:**
 After a successful 5 years in SAAS Sales and Consultancy, where I honed my skills in understanding and meeting clients' needs, I embarked on a thrilling journey into the world of cloud technology. My passion lies in seamlessly integrating cutting-edge solutions to streamline processes and enhance efficiency. . I am proud to hold AWS certifications, a testament to my new-found passion in cloud solutions and commitment to staying at the forefront of industry standards.
